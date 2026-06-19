@@ -19,7 +19,7 @@ cei-assignments/
 ```
 
 Each week folder contains:
-- `assignment_XX.ipynb` — Main submission notebook
+- `weekXX_assignment.ipynb` — Main submission notebook
 - `README.md` — Task description + approach summary
 
 ---
