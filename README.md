@@ -1,9 +1,9 @@
 # Celebal Excellence Internship — Weekly Assignments
 
-> **Intern:** Soham Sharma
+> **Intern:** Soham Sharma  
 > **LMS Student ID:** CT_CSI_DS_1031  
-> **Domain:** Data Science 
-> **Institution:** DIT University, Dehradun  
+> **Domain:** Data Science  
+> **Institution:** DIT University, Dehradun
 
 ---
 
