@@ -19,7 +19,7 @@ Covers the core mathematical and programming building blocks required for Machin
 
 | File | Description |
 |------|-------------|
-| `week1_assignment.ipynb` | Solutions, verification tests, and visualizations |
+| `week1_soham.ipynb` | Solutions, verification tests, and visualizations |
 
 ---
 
@@ -53,5 +53,5 @@ Implemented MAE, MSE, RMSE, R², and Adjusted R² without external dependencies.
 
 ```bash
 pip install numpy pandas matplotlib scipy statsmodels
-jupyter notebook week1_assignment.ipynb
+jupyter notebook week1_soham.ipynb
 ```
