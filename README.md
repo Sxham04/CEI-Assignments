@@ -28,7 +28,7 @@ Each week folder contains:
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 01 | ML Foundations | In Progress |
+| 01 | ML Foundations | Completed |
 | 02 | — | Upcoming |
 | 03 | — | Upcoming |
 | 04 | — | Upcoming |
