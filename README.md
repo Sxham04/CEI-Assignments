@@ -29,7 +29,7 @@ Each week folder contains:
 | Week | Topic | Status |
 |------|-------|--------|
 | 01 | ML Foundations | Completed |
-| 02 | — | Upcoming |
+| 02 | Classical Machine Learning | In Progress |
 | 03 | — | Upcoming |
 | 04 | — | Upcoming |
 | 05 | — | Upcoming |
