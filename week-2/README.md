@@ -1,8 +1,8 @@
 # Week 2 — End-to-End ML Pipeline on Tesla Delivery Data
 
-**Intern:** Soham Sharma
-**LMS ID:** CT_CSI_DS_1031
-**Dataset:** Tesla Deliveries Dataset (2015–2025)
+**Intern:** Soham Sharma  
+**LMS ID:** CT_CSI_DS_1031  
+**Dataset:** Tesla Deliveries Dataset (2015–2025)  
 
 ---
 
