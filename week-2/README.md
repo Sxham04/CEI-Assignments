@@ -40,8 +40,8 @@ EDA, feature engineering, regression modeling, hyperparameter tuning, and time s
 | Ridge (L2) | ~106 | ~151 | 0.9983 |
 | Lasso (L1) | ~106 | ~151 | 0.9983 |
 
-**Best Ridge Alpha (GridSearchCV):** 0.01
-**SARIMAX Forecast:** 6-month ahead forecast on monthly aggregated deliveries
+**Best Ridge Alpha (GridSearchCV):** 0.01  
+**SARIMAX Forecast:** 6-month ahead forecast on monthly aggregated deliveries  
 
 ---
 
