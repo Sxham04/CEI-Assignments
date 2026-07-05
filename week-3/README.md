@@ -1,7 +1,7 @@
 ## Week 3 — Country Clustering for Strategic Aid Allocation
-Intern: Soham Sharma
-LMS ID: CT_CSI_DS_1031
-Dataset: HELP International Country-Data (167 countries)
+Intern: Soham Sharma  
+LMS ID: CT_CSI_DS_1031  
+Dataset: HELP International Country-Data (167 countries)  
 
 Objective
 Segment countries by socio-economic and health factors to identify which are in the direst need of aid, using clustering validated through classification.
