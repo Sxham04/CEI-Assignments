@@ -30,7 +30,7 @@ Each week folder contains:
 |------|-------|--------|
 | 01 | ML Foundations | Completed |
 | 02 | Classical Machine Learning | Completed |
-| 03 | — | Upcoming |
+| 03 | Classification | Completed |
 | 04 | — | Upcoming |
 | 05 | — | Upcoming |
 | 06 | — | Upcoming |
