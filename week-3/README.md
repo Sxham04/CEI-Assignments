@@ -1,8 +1,8 @@
 ## Week 3 — Country Clustering for Strategic Aid Allocation
 
-**Intern:** Soham Sharma
-**LMS ID:** CT_CSI_DS_1031
-**Dataset:** HELP International Country-Data (167 countries)
+**Intern:** Soham Sharma  
+**LMS ID:** CT_CSI_DS_1031  
+**Dataset:** HELP International Country-Data (167 countries)  
 
 ### Objective
 
