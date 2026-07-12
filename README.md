@@ -31,7 +31,7 @@ Each week folder contains:
 | 01 | ML Foundations | Completed |
 | 02 | Classical Machine Learning | Completed |
 | 03 | Classification | Completed |
-| 04 | — | Upcoming |
+| 04 | CNN & Image Class. | Completed |
 | 05 | — | Upcoming |
 | 06 | — | Upcoming |
 | 07 | — | Upcoming |
