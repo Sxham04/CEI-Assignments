@@ -1,5 +1,10 @@
 # Week 4: CIFAR-10 Image Classification
 
+**Intern:** Soham Sharma  
+**LMS ID:** CT_CSI_DS_1031  
+**Dataset:** HELP International Country-Data (167 countries)  
+
+
 ## Objective
 Build an image classification model on CIFAR-10 covering the Week 4 topics: perceptron/MLP, activation functions, CNN architecture, training strategies, and evaluation.
 
