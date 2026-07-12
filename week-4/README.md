@@ -2,7 +2,7 @@
 
 **Intern:** Soham Sharma  
 **LMS ID:** CT_CSI_DS_1031  
-**Dataset:** HELP International Country-Data (167 countries)  
+**Dataset:** CIFAR-10  
 
 
 ## Objective
