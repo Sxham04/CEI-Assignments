@@ -32,7 +32,7 @@ Each week folder contains:
 | 02 | Classical Machine Learning | Completed |
 | 03 | Classification | Completed |
 | 04 | CNN & Image Class. | Completed |
-| 05 | — | Upcoming |
+| 05 | RNN & Text Generation | Completed |
 | 06 | — | Upcoming |
 | 07 | — | Upcoming |
 | 08 | — | Upcoming |
